@@ -320,7 +320,9 @@ const RoboticArmSimulator = () => {
       <div className="mt-4 text-center text-xs sm:text-sm text-gray-600">
         <p>Ajuste os parâmetros no painel esquerdo para ver como os torques mudam em tempo real.</p>
         <p>Os torques são calculados considerando apenas as forças gravitacionais.</p>
-        <p>Use os controles de zoom (+/-) e arraste o gráfico para melhor visualização.</p>
+      </div>
+      <div>
+        <p><a href='https://ricardojlrufino.github.io/calculadora-torque-interativa/' >Visite a calculadora de torque simplificada</a></p>
       </div>
     </div>
   );
