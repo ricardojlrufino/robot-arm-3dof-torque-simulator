@@ -2,6 +2,11 @@
 
 Um simulador de braço robótico em React para cálculo de torques e cinemática em tempo real. Esta aplicação permite visualizar um braço robótico de 3 eixos e calcular os torques necessários em cada junta com base nos comprimentos, ângulos e massas definidos pelo usuário.
 
+
+## Exemplo
+
+![Preview](./preview.webp)
+
 ## Funcionalidades
 
 - Visualização interativa do braço robótico em SVG
